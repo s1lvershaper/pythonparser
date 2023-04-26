@@ -1,0 +1,2 @@
+2023-04-20 17:41:31,172 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<get_coin_price() running at C:\Users\MSI\PycharmProjects\pythonProject1\main.py:27>>
